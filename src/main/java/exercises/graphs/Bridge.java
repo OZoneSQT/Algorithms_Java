@@ -1,6 +1,7 @@
 package exercises.graphs;
 
 import algorithms.graphs.GraphGenerator;
+import algorithms.graphs.Graph;
 import util.StdOut;
 
 /******************************************************************************

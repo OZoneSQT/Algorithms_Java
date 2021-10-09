@@ -29,6 +29,8 @@ package exercises.graphs; /*****************************************************
 import algorithms.graphs.DepthFirstOrder;
 import algorithms.graphs.DirectedCycle;
 import algorithms.graphs.SymbolDigraph;
+import algorithms.graphs.Digraph;
+import algorithms.graphs.EdgeWeightedDigraph;
 import util.StdOut;
 
 /**

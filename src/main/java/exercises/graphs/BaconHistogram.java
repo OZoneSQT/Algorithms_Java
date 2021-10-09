@@ -1,6 +1,8 @@
 package exercises.graphs;
 
 import algorithms.graphs.SymbolGraph;
+import algorithms.graphs.Graph;
+import algorithms.graphs.BreadthFirstPaths;
 import util.StdOut;
 
 /******************************************************************************
