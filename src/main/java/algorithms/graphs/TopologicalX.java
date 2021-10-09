@@ -8,6 +8,10 @@ package algorithms.graphs; /****************************************************
  *
  ******************************************************************************/
 
+import algorithms.fundamentals.Queue;
+import util.StdOut;
+import util.StdRandom;
+
 /**
  *  The {@code TopologicalX} class represents a data type for 
  *  determining a topological order of a <em>directed acyclic graph</em> (DAG).

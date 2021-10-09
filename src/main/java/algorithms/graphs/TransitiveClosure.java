@@ -30,6 +30,9 @@ package algorithms.graphs; /****************************************************
  *
  ******************************************************************************/
 
+import util.In;
+import util.StdOut;
+
 /**
  *  The {@code TransitiveClosure} class represents a data type for 
  *  computing the transitive closure of a digraph.
